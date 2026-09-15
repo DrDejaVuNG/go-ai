@@ -347,6 +347,12 @@ func (m *LanguageModel) buildRequest(opts *provider.GenerateOptions, isStreaming
 			}
 		}
 
+		// Gemini 3+ requires an explicit opt-in when server-side built-in
+		// tools (google_search, etc.) are combined with function calling;
+		// otherwise the API rejects the request with
+		// "Please enable tool_config.include_server_side_tool_invocations".
+		mixedServerSideTools := len(nativeEntries) > 0 && len(functionTools) > 0
+
 		if len(nativeEntries) > 0 {
 			toolsOut := make([]map[string]interface{}, 0, len(nativeEntries)+1)
 			toolsOut = append(toolsOut, nativeEntries...)
@@ -364,6 +370,12 @@ func (m *LanguageModel) buildRequest(opts *provider.GenerateOptions, isStreaming
 		}
 		if len(functionTools) > 0 {
 			toolConfig = m.buildFunctionCallingConfig(functionTools, opts)
+			if mixedServerSideTools {
+				if toolConfig == nil {
+					toolConfig = map[string]interface{}{}
+				}
+				toolConfig["includeServerSideToolInvocations"] = true
+			}
 		}
 	}
 	if rc, ok := body["_retrievalConfig"]; ok {

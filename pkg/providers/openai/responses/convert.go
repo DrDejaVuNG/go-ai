@@ -54,6 +54,17 @@ func ConvertPromptToInputWithOptions(prompt types.Prompt, systemMessageMode stri
 
 	for _, msg := range prompt.Messages {
 		switch msg.Role {
+		case types.RoleSystem:
+			// System prompts supplied as messages must not be dropped: map
+			// them to the configured system/developer role at their position.
+			text := systemMessageText(msg)
+			if text == "" {
+				continue
+			}
+			input = append(input, SystemMessage{
+				Role:    systemMessageMode,
+				Content: text,
+			})
 		case types.RoleUser:
 			userMessage, err := convertUserMessage(msg, opts)
 			if err != nil {
@@ -1321,4 +1332,15 @@ func openAIResponsesImageDetail(providerOptions map[string]interface{}, provider
 		return detail
 	}
 	return ""
+}
+
+// systemMessageText extracts the plain text of a system-role message.
+func systemMessageText(msg types.Message) string {
+	var b strings.Builder
+	for _, part := range msg.Content {
+		if text, ok := part.(types.TextContent); ok {
+			b.WriteString(text.Text)
+		}
+	}
+	return b.String()
 }
