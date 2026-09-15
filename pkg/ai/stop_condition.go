@@ -3,7 +3,7 @@ package ai
 import (
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // StopCondition evaluates after each step containing tool results.

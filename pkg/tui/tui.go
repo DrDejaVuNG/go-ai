@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/digitallysavvy/go-ai/pkg/agent"
+	"github.com/DrDejaVuNG/go-ai/pkg/agent"
 )
 
 // TerminalPartDisplayMode controls how terminal UI sections for stream parts are displayed.

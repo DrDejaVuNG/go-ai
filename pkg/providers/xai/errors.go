@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
 )
 
 func newXAIProviderError(provider string, statusCode int, body []byte) *providererrors.ProviderError {

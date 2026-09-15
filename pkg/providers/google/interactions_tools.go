@@ -3,7 +3,7 @@ package google
 import (
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 func prepareInteractionsTools(tools []types.Tool, toolChoice types.ToolChoice) ([]map[string]interface{}, interface{}, []types.Warning) {

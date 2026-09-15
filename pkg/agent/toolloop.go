@@ -9,13 +9,13 @@ import (
 	"sort"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils"
-	promptutils "github.com/digitallysavvy/go-ai/pkg/providerutils/prompt"
-	"github.com/digitallysavvy/go-ai/pkg/schema"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils"
+	promptutils "github.com/DrDejaVuNG/go-ai/pkg/providerutils/prompt"
+	"github.com/DrDejaVuNG/go-ai/pkg/schema"
 	"github.com/google/uuid"
 )
 

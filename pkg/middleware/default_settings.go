@@ -3,7 +3,7 @@ package middleware
 import (
 	"context"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // DefaultSettingsMiddleware creates a language model middleware that applies default settings

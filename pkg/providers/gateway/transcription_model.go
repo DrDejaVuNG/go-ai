@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"time"
 
-	internalhttp "github.com/digitallysavvy/go-ai/pkg/internal/http"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	internalhttp "github.com/DrDejaVuNG/go-ai/pkg/internal/http"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // TranscriptionModel implements the provider.TranscriptionModel interface for AI Gateway.

@@ -8,11 +8,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/internal/fileutil"
-	retryutil "github.com/digitallysavvy/go-ai/pkg/internal/retry"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/version"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/fileutil"
+	retryutil "github.com/DrDejaVuNG/go-ai/pkg/internal/retry"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/version"
 )
 
 // GeneratedAudioFile mirrors the TypeScript SDK's GeneratedAudioFile export.

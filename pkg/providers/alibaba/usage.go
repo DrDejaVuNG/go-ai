@@ -1,6 +1,6 @@
 package alibaba
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // AlibabaUsage represents token usage information from Alibaba API responses
 type AlibabaUsage struct {

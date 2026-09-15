@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // TestCompactionEventToChunk_EmitsCustomContent verifies that a compaction event

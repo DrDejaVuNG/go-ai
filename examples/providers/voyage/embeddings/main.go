@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/digitallysavvy/go-ai/pkg/providers/voyage"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/voyage"
 )
 
 func main() {

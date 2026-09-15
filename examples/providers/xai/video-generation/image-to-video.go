@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/providers/xai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/xai"
 )
 
 func main() {

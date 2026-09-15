@@ -3,8 +3,8 @@ package stability
 import (
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/internal/http"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/http"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // Provider implements the provider.Provider interface for Stability AI

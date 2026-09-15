@@ -8,8 +8,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 func TestFilesAPI_UploadFile(t *testing.T) {

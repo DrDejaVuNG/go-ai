@@ -6,7 +6,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // mockLanguageModel is a simple mock implementation for testing

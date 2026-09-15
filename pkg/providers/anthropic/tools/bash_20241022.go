@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // Bash20241022 creates a bash tool that enables Claude to execute shell commands

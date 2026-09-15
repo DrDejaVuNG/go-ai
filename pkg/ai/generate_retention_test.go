@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // mockLanguageModelForRetention is a mock model for testing retention settings

@@ -5,8 +5,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 func TestToUIMessageStreamHITLMatchesToolCallEmittedViaMessagesMode(t *testing.T) {

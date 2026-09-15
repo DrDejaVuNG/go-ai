@@ -3,7 +3,7 @@ package azure
 import (
 	"testing"
 
-	openaitool "github.com/digitallysavvy/go-ai/pkg/providers/openai/tool"
+	openaitool "github.com/DrDejaVuNG/go-ai/pkg/providers/openai/tool"
 )
 
 func TestAzureHostedToolWrappers(t *testing.T) {

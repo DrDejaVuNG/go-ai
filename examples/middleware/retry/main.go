@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/providers/openai"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openai"
 )
 
 type RetryMiddleware struct {

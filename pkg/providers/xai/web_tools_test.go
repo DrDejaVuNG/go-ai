@@ -3,7 +3,7 @@ package xai
 import (
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 func TestWebSearchToolShape(t *testing.T) {

@@ -9,9 +9,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils"
 )
 
 // SpeechModel represents an LMNT speech synthesis model

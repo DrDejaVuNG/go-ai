@@ -1,6 +1,6 @@
 package providerutils
 
-import "github.com/digitallysavvy/go-ai/pkg/provider"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider"
 
 // SerializeModel extracts a JSON-safe model configuration for workflow
 // reconstruction.

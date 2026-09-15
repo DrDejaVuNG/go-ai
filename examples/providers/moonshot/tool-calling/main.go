@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providers/moonshot"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/moonshot"
 )
 
 func main() {

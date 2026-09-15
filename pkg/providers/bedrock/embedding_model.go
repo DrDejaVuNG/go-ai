@@ -12,11 +12,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providers/cohere"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/cohere"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils"
 )
 
 // EmbeddingModel implements the provider.EmbeddingModel interface for AWS Bedrock

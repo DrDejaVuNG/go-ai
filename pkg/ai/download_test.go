@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
 )
 
 func TestCreateDownloadWithNilOptionsRejectsUnsafeURL(t *testing.T) {

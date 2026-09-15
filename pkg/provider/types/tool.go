@@ -3,7 +3,7 @@ package types
 import (
 	"context"
 
-	"github.com/digitallysavvy/go-ai/pkg/schema"
+	"github.com/DrDejaVuNG/go-ai/pkg/schema"
 )
 
 const (

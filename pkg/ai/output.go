@@ -7,10 +7,10 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/jsonparser"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/schema"
+	"github.com/DrDejaVuNG/go-ai/pkg/jsonparser"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/schema"
 )
 
 // Output represents a specification for how to handle model output

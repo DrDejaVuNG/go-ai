@@ -1,6 +1,6 @@
 package google
 
-import "github.com/digitallysavvy/go-ai/pkg/providers/gemini"
+import "github.com/DrDejaVuNG/go-ai/pkg/providers/gemini"
 
 // Tool constructors are defined once in the gemini package and re-exported here
 // so callers can import from either google or googlevertex without caring which

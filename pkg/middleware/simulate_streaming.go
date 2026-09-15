@@ -4,8 +4,8 @@ import (
 	"context"
 	"io"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // SimulateStreamingMiddleware returns middleware that converts non-streaming

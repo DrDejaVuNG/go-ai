@@ -1,6 +1,6 @@
 package xai
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // ViewImage creates a provider-executed tool that analyzes and describes an image.
 // Processing is handled by xAI's servers.

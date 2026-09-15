@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // ToolSearchRegex20251119Input represents the input parameters for the regex tool search

@@ -3,7 +3,7 @@ package bedrock
 import (
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // ValidateMessage validates a message structure for Bedrock API compatibility.

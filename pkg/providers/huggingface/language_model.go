@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // LanguageModel implements the provider.LanguageModel interface for Hugging Face

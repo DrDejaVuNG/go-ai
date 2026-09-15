@@ -7,9 +7,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/providers/openai"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openai"
 )
 
 // Route represents an intent route

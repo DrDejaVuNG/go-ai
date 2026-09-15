@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/providers/openresponses"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openresponses"
 )
 
 // This example demonstrates streaming text generation with a local LLM

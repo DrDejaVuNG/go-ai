@@ -2,9 +2,9 @@ module example/multimodal-token-tracking
 
 go 1.25.0
 
-replace github.com/digitallysavvy/go-ai => ../..
+replace github.com/DrDejaVuNG/go-ai => ../..
 
-require github.com/digitallysavvy/go-ai v0.1.0
+require github.com/DrDejaVuNG/go-ai v0.1.0
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect

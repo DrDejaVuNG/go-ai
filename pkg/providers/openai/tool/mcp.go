@@ -1,6 +1,6 @@
 package tool
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // MCPAllowedTools filters the tools available from an OpenAI MCP server.
 type MCPAllowedTools struct {

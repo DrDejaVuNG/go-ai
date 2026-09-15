@@ -3,8 +3,8 @@ package responses
 import (
 	"encoding/json"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // CompactionEventToChunk converts a Responses API compaction event into a

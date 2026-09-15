@@ -1,6 +1,6 @@
 package xai
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // ViewXVideo creates a provider-executed tool that analyzes and describes an X (Twitter) video.
 // Processing is handled by xAI's servers.

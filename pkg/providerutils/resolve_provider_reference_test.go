@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 func TestResolveProviderReference(t *testing.T) {

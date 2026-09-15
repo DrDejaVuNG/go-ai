@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // BUG-T17: models whose IDs begin with recognized prefixes (chatgpt-image, gpt-image-1, etc.)

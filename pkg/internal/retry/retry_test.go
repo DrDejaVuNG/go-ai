@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	gatewayerrors "github.com/digitallysavvy/go-ai/pkg/providers/gateway/errors"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	gatewayerrors "github.com/DrDejaVuNG/go-ai/pkg/providers/gateway/errors"
 )
 
 func TestDo_Success(t *testing.T) {

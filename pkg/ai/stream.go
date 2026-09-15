@@ -11,11 +11,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils"
-	promptutils "github.com/digitallysavvy/go-ai/pkg/providerutils/prompt"
-	"github.com/digitallysavvy/go-ai/pkg/telemetry"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils"
+	promptutils "github.com/DrDejaVuNG/go-ai/pkg/providerutils/prompt"
+	"github.com/DrDejaVuNG/go-ai/pkg/telemetry"
 )
 
 // StreamTextOptions contains options for streaming text generation

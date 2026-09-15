@@ -8,9 +8,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/digitallysavvy/go-ai/pkg/agent"
-	"github.com/digitallysavvy/go-ai/pkg/providers/openai"
-	"github.com/digitallysavvy/go-ai/pkg/tui"
+	"github.com/DrDejaVuNG/go-ai/pkg/agent"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openai"
+	"github.com/DrDejaVuNG/go-ai/pkg/tui"
 )
 
 func main() {

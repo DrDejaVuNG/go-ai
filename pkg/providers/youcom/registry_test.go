@@ -3,7 +3,7 @@ package youcom
 import (
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/registry"
+	"github.com/DrDejaVuNG/go-ai/pkg/registry"
 )
 
 func TestRegisterTools(t *testing.T) {

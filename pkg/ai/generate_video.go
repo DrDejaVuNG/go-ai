@@ -8,12 +8,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/internal/fileutil"
-	"github.com/digitallysavvy/go-ai/pkg/internal/media"
-	retryutil "github.com/digitallysavvy/go-ai/pkg/internal/retry"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/version"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/fileutil"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/media"
+	retryutil "github.com/DrDejaVuNG/go-ai/pkg/internal/retry"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/version"
 )
 
 // GenerateVideo generates videos using a video model

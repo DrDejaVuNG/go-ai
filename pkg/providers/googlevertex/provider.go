@@ -8,12 +8,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/internal/http"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	anthropicprovider "github.com/digitallysavvy/go-ai/pkg/providers/anthropic"
-	googleprovider "github.com/digitallysavvy/go-ai/pkg/providers/google"
-	vertexanthropic "github.com/digitallysavvy/go-ai/pkg/providers/googlevertex/anthropic"
-	"github.com/digitallysavvy/go-ai/pkg/version"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/http"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	anthropicprovider "github.com/DrDejaVuNG/go-ai/pkg/providers/anthropic"
+	googleprovider "github.com/DrDejaVuNG/go-ai/pkg/providers/google"
+	vertexanthropic "github.com/DrDejaVuNG/go-ai/pkg/providers/googlevertex/anthropic"
+	"github.com/DrDejaVuNG/go-ai/pkg/version"
 	"golang.org/x/oauth2"
 )
 

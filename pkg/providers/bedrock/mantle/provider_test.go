@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/providers/bedrock"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/bedrock"
 )
 
 func TestCreateBedrockMantleDefaultsAndModels(t *testing.T) {

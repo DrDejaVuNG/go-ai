@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 func TestXAISpeechModelRequestDefaultsAndProviderOptions(t *testing.T) {

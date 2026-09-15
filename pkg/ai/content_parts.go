@@ -3,7 +3,7 @@ package ai
 import (
 	"encoding/json"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 func appendTextPart(parts []types.ContentPart, text string) []types.ContentPart {

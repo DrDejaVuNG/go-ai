@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/testutil"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/testutil"
 )
 
 // TestToolTimeoutGlobalMs verifies that a tool which sleeps longer than

@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/digitallysavvy/go-ai/pkg/middleware"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/providers/openai"
+	"github.com/DrDejaVuNG/go-ai/pkg/middleware"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openai"
 )
 
 func main() {

@@ -3,8 +3,8 @@ package ai
 import (
 	"context"
 
-	"github.com/digitallysavvy/go-ai/pkg/internal/fileutil"
-	promptutils "github.com/digitallysavvy/go-ai/pkg/providerutils/prompt"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/fileutil"
+	promptutils "github.com/DrDejaVuNG/go-ai/pkg/providerutils/prompt"
 )
 
 var downloadURLValidator = validateDownloadURL

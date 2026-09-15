@@ -1,8 +1,8 @@
 package providerutils
 
 import (
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // ResolveProviderReference returns the provider-specific file identifier from

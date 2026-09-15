@@ -6,11 +6,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/agent"
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/testutil"
+	"github.com/DrDejaVuNG/go-ai/pkg/agent"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/testutil"
 )
 
 func TestAgentTUIRunnerPromptsAndStreamsMessages(t *testing.T) {

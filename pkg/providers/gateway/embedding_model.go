@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	internalhttp "github.com/digitallysavvy/go-ai/pkg/internal/http"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	internalhttp "github.com/DrDejaVuNG/go-ai/pkg/internal/http"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // EmbeddingModel implements the provider.EmbeddingModel interface for AI Gateway

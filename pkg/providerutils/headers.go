@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // ExtractHeaders converts an http.Header (map[string][]string) to map[string]string

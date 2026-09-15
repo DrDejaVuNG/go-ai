@@ -7,8 +7,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providers/anthropic"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/anthropic"
 )
 
 // TestIntegration_AnthropicToolSearch tests Anthropic's tool-search with error handling

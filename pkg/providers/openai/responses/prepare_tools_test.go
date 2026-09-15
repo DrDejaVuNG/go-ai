@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	openaitool "github.com/digitallysavvy/go-ai/pkg/providers/openai/tool"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	openaitool "github.com/DrDejaVuNG/go-ai/pkg/providers/openai/tool"
 )
 
 func TestPrepareTools_Nil(t *testing.T) {

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/providers/openresponses"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openresponses"
 )
 
 // This example demonstrates basic text generation using a local LLM

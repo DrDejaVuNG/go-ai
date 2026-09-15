@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
 )
 
 // CreateAgentUIStream starts an agent stream and converts it to UI message chunks.

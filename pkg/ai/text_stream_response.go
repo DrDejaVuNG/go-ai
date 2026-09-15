@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // TextStreamResponseInit mirrors the TypeScript ResponseInit shape used by

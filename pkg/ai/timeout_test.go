@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 func TestTimeoutConfig_CreateTimeoutContext_Total(t *testing.T) {

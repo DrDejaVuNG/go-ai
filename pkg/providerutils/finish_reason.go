@@ -1,6 +1,6 @@
 package providerutils
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // MapOpenAIFinishReason maps OpenAI-compatible finish reason strings to SDK types.
 // Handles both current ("tool_calls") and legacy ("function_call") values.

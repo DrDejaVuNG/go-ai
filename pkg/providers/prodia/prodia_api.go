@@ -12,7 +12,7 @@ import (
 	"net/textproto"
 	"strings"
 
-	internalhttp "github.com/digitallysavvy/go-ai/pkg/internal/http"
+	internalhttp "github.com/DrDejaVuNG/go-ai/pkg/internal/http"
 )
 
 // prodiaJobResponse represents the Prodia job API response metadata.

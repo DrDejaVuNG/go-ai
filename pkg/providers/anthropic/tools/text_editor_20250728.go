@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // TextEditor20250728Command represents the command type for text editor tool

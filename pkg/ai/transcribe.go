@@ -8,12 +8,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/internal/fileutil"
-	retryutil "github.com/digitallysavvy/go-ai/pkg/internal/retry"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/version"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/fileutil"
+	retryutil "github.com/DrDejaVuNG/go-ai/pkg/internal/retry"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/version"
 )
 
 // TranscribeOptions contains options for speech-to-text transcription.

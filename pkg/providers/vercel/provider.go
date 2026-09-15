@@ -1,7 +1,7 @@
 package vercel
 
 import (
-	"github.com/digitallysavvy/go-ai/pkg/providers/openai"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openai"
 )
 
 // Provider implements the provider.Provider interface for Vercel AI

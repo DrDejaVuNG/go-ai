@@ -3,7 +3,7 @@ package tools
 import (
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 func TestLegacyTools_ConstructorsAndExecutionGuards(t *testing.T) {

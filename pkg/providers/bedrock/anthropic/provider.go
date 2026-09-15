@@ -7,9 +7,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	bedrock "github.com/digitallysavvy/go-ai/pkg/providers/bedrock"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	bedrock "github.com/DrDejaVuNG/go-ai/pkg/providers/bedrock"
 )
 
 const (

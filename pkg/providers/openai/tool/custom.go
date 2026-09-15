@@ -6,7 +6,7 @@
 //
 // Example usage:
 //
-//	import openaitool "github.com/digitallysavvy/go-ai/pkg/providers/openai/tool"
+//	import openaitool "github.com/DrDejaVuNG/go-ai/pkg/providers/openai/tool"
 //
 //	syntax := "lark"
 //	definition := `start: OBJECT\nOBJECT: "{" pair* "}"\n...`
@@ -29,7 +29,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // CustomToolFormat defines the output format constraints for a custom tool.

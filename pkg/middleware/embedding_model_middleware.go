@@ -3,8 +3,8 @@ package middleware
 import (
 	"context"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // EmbeddingModelMiddleware defines middleware that can be applied to embedding models

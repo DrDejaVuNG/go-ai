@@ -9,13 +9,13 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	bedrock "github.com/digitallysavvy/go-ai/pkg/providers/bedrock"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils/prompt"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils/streaming"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils/tool"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	bedrock "github.com/DrDejaVuNG/go-ai/pkg/providers/bedrock"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils/prompt"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils/streaming"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils/tool"
 )
 
 // BedrockAnthropicLanguageModel implements the provider.LanguageModel interface for Bedrock Anthropic

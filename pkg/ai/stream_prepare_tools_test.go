@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/testutil"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/testutil"
 )
 
 func TestStreamText_DescriptionFuncResolvedAfterPrepareStep(t *testing.T) {

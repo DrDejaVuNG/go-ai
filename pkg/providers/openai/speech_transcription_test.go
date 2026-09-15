@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 func TestSpeechModel_DoGenerate_UsesVersionRelativePath(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 func TestFunctionCallOutputPairing(t *testing.T) {
@@ -26,7 +26,7 @@ func TestFunctionCallOutputPairing(t *testing.T) {
 
 func TestSystemMessagePreserved(t *testing.T) {
 	prompt := types.Prompt{Messages: []types.Message{
-		{Role: types.RoleSystem, Content: []types.ContentPart{types.TextContent{Text: "You are Streetz AI"}}},
+		{Role: types.RoleSystem, Content: []types.ContentPart{types.TextContent{Text: "You are a helpful assistant"}}},
 		{Role: types.RoleUser, Content: []types.ContentPart{types.TextContent{Text: "hi"}}},
 	}}
 	input := ConvertPromptToInput(prompt, "system")
@@ -34,7 +34,7 @@ func TestSystemMessagePreserved(t *testing.T) {
 	if !ok {
 		t.Fatalf("expected SystemMessage first, got %T", input[0])
 	}
-	if first.Content != "You are Streetz AI" || first.Role != "system" {
+	if first.Content != "You are a helpful assistant" || first.Role != "system" {
 		t.Fatalf("system message not preserved: %+v", first)
 	}
 }

@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/digitallysavvy/go-ai/pkg/providers/bedrock"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/bedrock"
 )
 
 type sigV4Transport struct {

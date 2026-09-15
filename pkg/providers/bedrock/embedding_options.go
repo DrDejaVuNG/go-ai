@@ -3,7 +3,7 @@ package bedrock
 import (
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/providers/cohere"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/cohere"
 )
 
 // EmbeddingOptions configures AWS Bedrock embedding generation

@@ -1,10 +1,10 @@
-module github.com/digitallysavvy/go-ai/examples/rerank
+module github.com/DrDejaVuNG/go-ai/examples/rerank
 
 go 1.25.4
 
-replace github.com/digitallysavvy/go-ai => ../..
+replace github.com/DrDejaVuNG/go-ai => ../..
 
-require github.com/digitallysavvy/go-ai v0.0.0-00010101000000-000000000000
+require github.com/DrDejaVuNG/go-ai v0.0.0-00010101000000-000000000000
 
 require (
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect

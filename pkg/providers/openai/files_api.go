@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"mime/multipart"
 
-	internalhttp "github.com/digitallysavvy/go-ai/pkg/internal/http"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	internalhttp "github.com/DrDejaVuNG/go-ai/pkg/internal/http"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 type FilesAPI struct {

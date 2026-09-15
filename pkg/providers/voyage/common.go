@@ -1,6 +1,6 @@
 package voyage
 
-import "github.com/digitallysavvy/go-ai/pkg/provider"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider"
 
 func optsHeaders(opts *provider.EmbedModelOptions) map[string]string {
 	if opts == nil {

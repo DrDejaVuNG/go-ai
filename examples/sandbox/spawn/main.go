@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
 )
 
 func main() {

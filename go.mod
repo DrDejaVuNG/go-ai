@@ -1,4 +1,4 @@
-module github.com/digitallysavvy/go-ai
+module github.com/DrDejaVuNG/go-ai
 
 go 1.25.0
 

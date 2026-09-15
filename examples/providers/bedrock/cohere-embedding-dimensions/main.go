@@ -6,9 +6,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/providers/bedrock"
-	"github.com/digitallysavvy/go-ai/pkg/providers/cohere"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/bedrock"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/cohere"
 )
 
 func main() {

@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"sort"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // GenerateID returns a compact random ID for provider deltas that omit a tool

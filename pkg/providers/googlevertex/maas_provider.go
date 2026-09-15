@@ -8,8 +8,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/providers/openai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openai"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
 )

@@ -1,6 +1,6 @@
 package core
 
-import "github.com/digitallysavvy/go-ai/pkg/ai"
+import "github.com/DrDejaVuNG/go-ai/pkg/ai"
 
 // StopCondition evaluates after each step containing tool results.
 type StopCondition = ai.StopCondition

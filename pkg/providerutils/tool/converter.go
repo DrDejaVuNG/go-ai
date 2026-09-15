@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // ToJSONSchema converts a Tool to JSON Schema format

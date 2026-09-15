@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
 )
 
 func TestEmbeddingModelMetadataAndLimits(t *testing.T) {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providers/anthropic"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/anthropic"
 )
 
 // Example demonstrating tool result content arrays and tool references

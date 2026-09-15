@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/providerutils"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils"
 )
 
 var (

@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"time"
 
-	retryutil "github.com/digitallysavvy/go-ai/pkg/internal/retry"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	retryutil "github.com/DrDejaVuNG/go-ai/pkg/internal/retry"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // GenerateImageOptions contains options for image generation.

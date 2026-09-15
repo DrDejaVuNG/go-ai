@@ -3,7 +3,7 @@ package policy
 import (
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // ShadowOptions configures Shadow.

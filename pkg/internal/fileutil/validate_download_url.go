@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
 )
 
 // ValidateDownloadURL rejects URL forms that can bypass SSRF protections.

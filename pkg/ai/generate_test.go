@@ -9,12 +9,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providers/gateway"
-	gatewayerrors "github.com/digitallysavvy/go-ai/pkg/providers/gateway/errors"
-	promptutils "github.com/digitallysavvy/go-ai/pkg/providerutils/prompt"
-	"github.com/digitallysavvy/go-ai/pkg/testutil"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/gateway"
+	gatewayerrors "github.com/DrDejaVuNG/go-ai/pkg/providers/gateway/errors"
+	promptutils "github.com/DrDejaVuNG/go-ai/pkg/providerutils/prompt"
+	"github.com/DrDejaVuNG/go-ai/pkg/testutil"
 )
 
 func TestGenerateText_BasicPrompt(t *testing.T) {

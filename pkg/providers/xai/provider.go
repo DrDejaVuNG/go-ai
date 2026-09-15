@@ -5,9 +5,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/internal/http"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/version"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/http"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/version"
 )
 
 // Provider implements the provider.Provider interface for xAI (Grok)

@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // TestToolSearchServerMode verifies that ToolSearch in server mode produces a

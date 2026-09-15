@@ -1,6 +1,6 @@
 package anthropic
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // ToolReference creates a tool-reference content block for deferred tool loading.
 //

@@ -3,7 +3,7 @@ package registry
 import (
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // CustomProviderOptions configures an idiomatic Go custom provider. Each model

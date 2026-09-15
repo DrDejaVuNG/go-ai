@@ -1,6 +1,6 @@
 package moonshot
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // MoonshotUsage represents token usage information from Moonshot API responses
 // Supports prompt caching and thinking/reasoning token tracking

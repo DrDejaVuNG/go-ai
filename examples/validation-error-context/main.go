@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
 )
 
 // Example demonstrating the enhanced ValidationError with context

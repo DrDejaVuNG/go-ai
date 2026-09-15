@@ -21,10 +21,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providers/anthropic"
-	anthropicTools "github.com/digitallysavvy/go-ai/pkg/providers/anthropic/tools"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/anthropic"
+	anthropicTools "github.com/DrDejaVuNG/go-ai/pkg/providers/anthropic/tools"
 )
 
 func main() {

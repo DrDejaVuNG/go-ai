@@ -3,7 +3,7 @@ package tools
 import (
 	"context"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // ParallelSearchConfig contains configuration for the Parallel Search tool

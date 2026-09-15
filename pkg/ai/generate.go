@@ -7,14 +7,14 @@ import (
 	"strings"
 	"time"
 
-	retryutil "github.com/digitallysavvy/go-ai/pkg/internal/retry"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	gatewayerrors "github.com/digitallysavvy/go-ai/pkg/providers/gateway/errors"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils"
-	promptutils "github.com/digitallysavvy/go-ai/pkg/providerutils/prompt"
-	"github.com/digitallysavvy/go-ai/pkg/telemetry"
+	retryutil "github.com/DrDejaVuNG/go-ai/pkg/internal/retry"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	gatewayerrors "github.com/DrDejaVuNG/go-ai/pkg/providers/gateway/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils"
+	promptutils "github.com/DrDejaVuNG/go-ai/pkg/providerutils/prompt"
+	"github.com/DrDejaVuNG/go-ai/pkg/telemetry"
 )
 
 // now returns the current time in milliseconds since Unix epoch.
@@ -295,7 +295,7 @@ type GenerateTextOptions struct {
 	// When set, automatically records spans with prompts, responses, token usage, and latencies
 	//
 	// Example:
-	//   import "github.com/digitallysavvy/go-ai/pkg/telemetry"
+	//   import "github.com/DrDejaVuNG/go-ai/pkg/telemetry"
 	//
 	//   result, err := ai.GenerateText(ctx, ai.GenerateTextOptions{
 	//       Model: model,

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // ToOpenAIMessages converts unified messages to OpenAI Chat Completions format.

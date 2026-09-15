@@ -3,7 +3,7 @@ package fal
 import (
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 func TestVideoModelBuildRequestBody_URLImage(t *testing.T) {

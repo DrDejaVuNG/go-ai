@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // wrappedProvider wraps a Provider with middleware

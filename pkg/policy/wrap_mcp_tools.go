@@ -1,6 +1,6 @@
 package policy
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // WrappedMCPTools is the result returned by WrapMCPTools.
 type WrappedMCPTools struct {

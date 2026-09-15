@@ -1,6 +1,6 @@
 package xai
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // prepareXAIResponsesTools converts SDK tools to XAI Responses API wire format.
 // XAI provider tools are serialized using their ProviderOptions config.

@@ -7,8 +7,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // ProdiaLanguageModel implements the provider.LanguageModel interface for the

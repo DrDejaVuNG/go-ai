@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"net/url"
 
-	internalhttp "github.com/digitallysavvy/go-ai/pkg/internal/http"
+	internalhttp "github.com/DrDejaVuNG/go-ai/pkg/internal/http"
 )
 
 type MintRealtimeClientSecretParams struct {

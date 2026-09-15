@@ -9,9 +9,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	gatewayerrors "github.com/digitallysavvy/go-ai/pkg/providers/gateway/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	gatewayerrors "github.com/DrDejaVuNG/go-ai/pkg/providers/gateway/errors"
 )
 
 func TestGatewayImageModelMetadataAndHeaders(t *testing.T) {

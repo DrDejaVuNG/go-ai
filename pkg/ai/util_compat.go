@@ -4,8 +4,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/jsonparser"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/jsonparser"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // ParsePartialJSON parses potentially-incomplete JSON content.

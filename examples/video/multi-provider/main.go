@@ -6,10 +6,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/providers/fal"
-	"github.com/digitallysavvy/go-ai/pkg/providers/google"
-	"github.com/digitallysavvy/go-ai/pkg/providers/replicate"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/fal"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/google"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/replicate"
 )
 
 func main() {

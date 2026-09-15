@@ -1,6 +1,6 @@
 package xai
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // CodeExecution creates a provider-executed tool that runs code in a sandboxed environment.
 // Execution is handled by xAI's servers (maps to API type "code_interpreter").

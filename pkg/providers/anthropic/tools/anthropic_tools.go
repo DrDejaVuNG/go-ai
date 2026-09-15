@@ -16,7 +16,7 @@
 // the TypeScript SDK default behavior.
 package tools
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // AnthropicTools provides access to all Anthropic-specific tools
 var AnthropicTools = struct {

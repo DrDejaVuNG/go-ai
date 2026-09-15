@@ -1,5 +1,7 @@
 # Go AI SDK
 
+Community fork of [digitallysavvy/go-ai](https://github.com/digitallysavvy/go-ai) (Apache-2.0), maintained with current-API fixes for OpenAI Responses and Gemini tool calling. Releases are tagged for direct `go get` use.
+
 [![CI](https://github.com/digitallysavvy/go-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/digitallysavvy/go-ai/actions/workflows/ci.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/digitallysavvy/go-ai)](https://goreportcard.com/report/github.com/digitallysavvy/go-ai)
 [![Go Reference](https://pkg.go.dev/badge/github.com/digitallysavvy/go-ai.svg)](https://pkg.go.dev/github.com/digitallysavvy/go-ai)

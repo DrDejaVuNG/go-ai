@@ -12,13 +12,13 @@ import (
 	"sync"
 	"time"
 
-	internalhttp "github.com/digitallysavvy/go-ai/pkg/internal/http"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	gatewayerrors "github.com/digitallysavvy/go-ai/pkg/providers/gateway/errors"
-	"github.com/digitallysavvy/go-ai/pkg/providers/gateway/tools"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils"
-	"github.com/digitallysavvy/go-ai/pkg/version"
+	internalhttp "github.com/DrDejaVuNG/go-ai/pkg/internal/http"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	gatewayerrors "github.com/DrDejaVuNG/go-ai/pkg/providers/gateway/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/gateway/tools"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils"
+	"github.com/DrDejaVuNG/go-ai/pkg/version"
 )
 
 const (

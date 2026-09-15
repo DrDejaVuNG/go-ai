@@ -3,7 +3,7 @@ package provider
 import (
 	"context"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // FilesAPI mirrors the TypeScript FilesV4 upload surface.

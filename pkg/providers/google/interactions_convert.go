@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 func (m *InteractionsLanguageModel) convertPrompt(p types.Prompt, opts GoogleInteractionsProviderOptions) (interface{}, string, []types.Warning, error) {

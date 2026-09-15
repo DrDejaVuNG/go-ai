@@ -3,7 +3,7 @@ package ai
 import (
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/providerutils"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils"
 )
 
 func appendSandboxDescription(system string, sandbox interface{}) string {

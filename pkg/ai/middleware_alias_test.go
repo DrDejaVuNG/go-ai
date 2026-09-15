@@ -3,8 +3,8 @@ package ai
 import (
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/testutil"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/testutil"
 )
 
 func TestMiddlewareAliases_WrapLanguageModel(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	gatewayerrors "github.com/digitallysavvy/go-ai/pkg/providers/gateway/errors"
+	gatewayerrors "github.com/DrDejaVuNG/go-ai/pkg/providers/gateway/errors"
 )
 
 func main() {

@@ -6,8 +6,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	anthropicprovider "github.com/digitallysavvy/go-ai/pkg/providers/anthropic"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	anthropicprovider "github.com/DrDejaVuNG/go-ai/pkg/providers/anthropic"
 )
 
 const (

@@ -3,7 +3,7 @@ package prodia
 import (
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // TestPriceAlwaysIncludedInQuery verifies that price=true is always sent as a

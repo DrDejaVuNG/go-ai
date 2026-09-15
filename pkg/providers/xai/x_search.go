@@ -1,6 +1,6 @@
 package xai
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // XSearchConfig contains configuration for the xAI XSearch tool.
 type XSearchConfig struct {

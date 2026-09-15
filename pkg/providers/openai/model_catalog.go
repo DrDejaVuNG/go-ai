@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/digitallysavvy/go-ai/pkg/modelcatalog"
+	"github.com/DrDejaVuNG/go-ai/pkg/modelcatalog"
 )
 
 const OpenAIModelsEndpoint = "https://api.openai.com/v1/models"

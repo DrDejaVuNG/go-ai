@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/internal/fileutil"
-	"github.com/digitallysavvy/go-ai/pkg/internal/media"
-	"github.com/digitallysavvy/go-ai/pkg/internal/polling"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/fileutil"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/media"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/polling"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
 )
 
 // VideoModel implements the provider.VideoModelV3 interface for Google Generative AI

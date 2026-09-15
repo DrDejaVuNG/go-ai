@@ -3,8 +3,8 @@ package moonshot
 import (
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils"
 )
 
 // TestNewProvider tests provider creation

@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // Computer20241022Args represents the configuration arguments for the computer_20241022 tool.

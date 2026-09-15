@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	internalhttp "github.com/digitallysavvy/go-ai/pkg/internal/http"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
+	internalhttp "github.com/DrDejaVuNG/go-ai/pkg/internal/http"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
 )
 
 // cerebrasErrorPayload documents the Cerebras API error shape:

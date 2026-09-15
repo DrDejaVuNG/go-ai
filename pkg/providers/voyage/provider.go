@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	internalhttp "github.com/digitallysavvy/go-ai/pkg/internal/http"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	internalhttp "github.com/DrDejaVuNG/go-ai/pkg/internal/http"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 const DefaultBaseURL = "https://api.voyageai.com/v1"

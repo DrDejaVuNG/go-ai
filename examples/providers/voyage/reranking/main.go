@@ -8,8 +8,8 @@ import (
 	"log"
 	"os"
 
-	goprovider "github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/providers/voyage"
+	goprovider "github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/voyage"
 )
 
 func main() {

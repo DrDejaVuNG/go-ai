@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	bedrockAnthropic "github.com/digitallysavvy/go-ai/pkg/providers/bedrock/anthropic"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	bedrockAnthropic "github.com/DrDejaVuNG/go-ai/pkg/providers/bedrock/anthropic"
 )
 
 func main() {

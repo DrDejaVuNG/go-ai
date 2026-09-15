@@ -1,6 +1,6 @@
 package ai
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // ObjectOnStartEvent is fired once when GenerateObject or StreamObject begins,
 // before any LLM call is made. Passed to ExperimentalOnStart callbacks.

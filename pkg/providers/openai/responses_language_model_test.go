@@ -11,11 +11,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providers/openai/responses"
-	openaitool "github.com/digitallysavvy/go-ai/pkg/providers/openai/tool"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openai/responses"
+	openaitool "github.com/DrDejaVuNG/go-ai/pkg/providers/openai/tool"
 )
 
 // mockResponsesResponse returns a minimal valid Responses API response body.

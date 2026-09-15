@@ -3,7 +3,7 @@ package providerutils
 import (
 	"encoding/json"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // ConvertToResponseMessage converts accumulated assistant content and tool

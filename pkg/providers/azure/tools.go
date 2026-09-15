@@ -1,8 +1,8 @@
 package azure
 
 import (
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	openaitool "github.com/digitallysavvy/go-ai/pkg/providers/openai/tool"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	openaitool "github.com/DrDejaVuNG/go-ai/pkg/providers/openai/tool"
 )
 
 // CodeInterpreter creates the OpenAI Responses code_interpreter provider tool for Azure OpenAI.

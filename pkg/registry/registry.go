@@ -5,8 +5,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // NoSuchProviderError mirrors the TypeScript AI SDK registry error. It is

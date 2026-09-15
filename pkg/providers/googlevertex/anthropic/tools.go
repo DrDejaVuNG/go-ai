@@ -1,8 +1,8 @@
 package anthropic
 
 import (
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	anthropictools "github.com/digitallysavvy/go-ai/pkg/providers/anthropic/tools"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	anthropictools "github.com/DrDejaVuNG/go-ai/pkg/providers/anthropic/tools"
 )
 
 type Computer20241022Args = anthropictools.Computer20241022Args

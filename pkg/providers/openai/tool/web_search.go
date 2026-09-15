@@ -1,6 +1,6 @@
 package tool
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // WebSearchLocation provides approximate user location for OpenAI web search.
 type WebSearchLocation struct {

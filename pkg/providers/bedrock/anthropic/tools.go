@@ -1,7 +1,7 @@
 package anthropic
 
 import (
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // UpgradeToolVersion upgrades Anthropic tool versions for Bedrock compatibility

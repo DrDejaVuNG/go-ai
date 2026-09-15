@@ -3,7 +3,7 @@ package policy
 import (
 	"context"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // PolicyClient is the engine-neutral OPA client contract. Evaluate returns the

@@ -3,7 +3,7 @@ package xai
 import (
 	"fmt"
 
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
 )
 
 func invalidXAIProviderOptions(cause error) error {

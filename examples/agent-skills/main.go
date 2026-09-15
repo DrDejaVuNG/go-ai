@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/agent"
-	"github.com/digitallysavvy/go-ai/pkg/providers/openai"
+	"github.com/DrDejaVuNG/go-ai/pkg/agent"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openai"
 )
 
 func main() {

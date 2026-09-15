@@ -10,12 +10,12 @@ import (
 	"net/http"
 	"time"
 
-	internalhttp "github.com/digitallysavvy/go-ai/pkg/internal/http"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	gatewayerrors "github.com/digitallysavvy/go-ai/pkg/providers/gateway/errors"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils/streaming"
+	internalhttp "github.com/DrDejaVuNG/go-ai/pkg/internal/http"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	gatewayerrors "github.com/DrDejaVuNG/go-ai/pkg/providers/gateway/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils/streaming"
 )
 
 // LanguageModel implements the provider.LanguageModel interface for AI Gateway

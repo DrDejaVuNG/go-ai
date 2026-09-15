@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/providers/klingai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/klingai"
 )
 
 // This example demonstrates the KlingAI v3.0 model IDs for both text-to-video

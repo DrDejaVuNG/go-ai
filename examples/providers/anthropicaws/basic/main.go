@@ -6,9 +6,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/providers/anthropic"
-	"github.com/digitallysavvy/go-ai/pkg/providers/anthropicaws"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/anthropic"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/anthropicaws"
 )
 
 func main() {

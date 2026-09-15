@@ -3,7 +3,7 @@ package ai
 import (
 	"context"
 
-	"github.com/digitallysavvy/go-ai/pkg/telemetry"
+	"github.com/DrDejaVuNG/go-ai/pkg/telemetry"
 )
 
 // Listener is a function that receives an event of type E.

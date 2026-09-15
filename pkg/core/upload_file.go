@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 var ErrFilesAPINotSupported = errors.New("the provider does not support file uploads. Make sure it exposes a Files() method")

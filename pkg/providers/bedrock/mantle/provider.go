@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/providers/bedrock"
-	"github.com/digitallysavvy/go-ai/pkg/providers/openai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/bedrock"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openai"
 )
 
 // ProviderSettings contains configuration for the Amazon Bedrock Mantle provider.

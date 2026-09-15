@@ -1,6 +1,6 @@
 package openresponses
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // MapOpenResponsesFinishReason maps Open Responses finish reasons to AI SDK finish reasons
 func MapOpenResponsesFinishReason(reason string, hasToolCalls bool) types.FinishReason {

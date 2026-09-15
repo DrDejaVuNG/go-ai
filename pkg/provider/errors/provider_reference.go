@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // NoSuchProviderReferenceError is returned when a provider reference does not

@@ -1,6 +1,6 @@
 package ai
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // FilterActiveTools filters a slice of tools to only include those whose names
 // are in activeTools.

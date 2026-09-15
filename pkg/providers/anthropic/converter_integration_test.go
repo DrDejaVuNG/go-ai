@@ -3,8 +3,8 @@ package anthropic
 import (
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils/prompt"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils/prompt"
 )
 
 // TestAnthropicContentBlocksIntegration tests that content blocks flow correctly through conversion

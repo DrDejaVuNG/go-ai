@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/providerutils/streaming"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils/streaming"
 )
 
 func TestWorkflowChatTransportSSEAndResume(t *testing.T) {

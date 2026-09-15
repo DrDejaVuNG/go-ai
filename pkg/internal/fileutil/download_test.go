@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
 )
 
 func insecureDownloadOptions() DownloadOptions {

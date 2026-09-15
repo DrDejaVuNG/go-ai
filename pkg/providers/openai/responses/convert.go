@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // ConvertPromptToInput converts a types.Prompt to the Responses API input slice.

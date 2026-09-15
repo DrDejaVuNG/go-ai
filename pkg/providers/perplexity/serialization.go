@@ -3,7 +3,7 @@ package perplexity
 import (
 	"encoding/json"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 func init() {

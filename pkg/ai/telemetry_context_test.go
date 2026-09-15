@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/telemetry"
+	"github.com/DrDejaVuNG/go-ai/pkg/telemetry"
 )
 
 func TestTelemetryContextFiltering(t *testing.T) {

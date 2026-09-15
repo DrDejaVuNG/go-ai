@@ -7,10 +7,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/internal/polling"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/internal/polling"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // VideoModel implements the provider.VideoModelV3 interface for XAI

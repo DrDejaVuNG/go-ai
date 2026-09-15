@@ -1,8 +1,8 @@
 package anthropic
 
 import (
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providerutils/tool"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils/tool"
 )
 
 // builtinToolDef holds the API type and canonical name for a simple Anthropic builtin tool.

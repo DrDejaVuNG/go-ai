@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/providerutils/streaming"
-	"github.com/digitallysavvy/go-ai/pkg/version"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils/streaming"
+	"github.com/DrDejaVuNG/go-ai/pkg/version"
 )
 
 // SSETransport implements the legacy MCP SSE transport.

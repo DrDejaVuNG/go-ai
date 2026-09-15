@@ -3,7 +3,7 @@ package bedrock
 import (
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/providers/cohere"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/cohere"
 )
 
 func TestCohereEmbeddingOptionsValidation(t *testing.T) {

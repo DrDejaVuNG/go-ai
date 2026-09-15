@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	gatewayerrors "github.com/digitallysavvy/go-ai/pkg/providers/gateway/errors"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	gatewayerrors "github.com/DrDejaVuNG/go-ai/pkg/providers/gateway/errors"
 )
 
 func TestGatewayEmbeddingModelMetadataAndHeaders(t *testing.T) {

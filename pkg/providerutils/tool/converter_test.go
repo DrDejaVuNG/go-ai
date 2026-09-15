@@ -3,7 +3,7 @@ package tool
 import (
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // BUG-T15: strict mode must be included in the tool function definition so that

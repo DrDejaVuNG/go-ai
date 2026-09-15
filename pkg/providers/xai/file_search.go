@@ -1,6 +1,6 @@
 package xai
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // FileSearchConfig contains configuration for the xAI FileSearch tool
 type FileSearchConfig struct {

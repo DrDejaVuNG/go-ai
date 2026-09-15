@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/digitallysavvy/go-ai/pkg/providerutils/streaming"
+	"github.com/DrDejaVuNG/go-ai/pkg/providerutils/streaming"
 )
 
 const mcpHTTPAcceptHeader = "application/json, text/event-stream"

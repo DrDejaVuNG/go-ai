@@ -3,7 +3,7 @@ package gemini
 import (
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // isGemini3Model reports whether modelID identifies a Gemini 3.x model.

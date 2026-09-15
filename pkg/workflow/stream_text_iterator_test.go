@@ -5,8 +5,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/agent"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/agent"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 func TestStreamTextIteratorSequenceAndClose(t *testing.T) {

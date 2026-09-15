@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	providererrors "github.com/digitallysavvy/go-ai/pkg/provider/errors"
+	providererrors "github.com/DrDejaVuNG/go-ai/pkg/provider/errors"
 )
 
 var netLookupHost = net.LookupHost

@@ -1,6 +1,6 @@
 package policy
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // NormalizeOPADecision normalizes common OPA decision payloads into the SDK
 // approval status object form. Unknown and nil shapes are not-applicable,

@@ -10,8 +10,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	openaitool "github.com/digitallysavvy/go-ai/pkg/providers/openai/tool"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	openaitool "github.com/DrDejaVuNG/go-ai/pkg/providers/openai/tool"
 )
 
 // TestIntegration_CustomTool_WireFormat verifies that PrepareTools output

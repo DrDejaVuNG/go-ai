@@ -11,8 +11,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // LangSmithDeploymentTransportOptions configures a LangSmith/LangGraph

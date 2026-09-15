@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/digitallysavvy/go-ai/pkg/providers/gemini"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/gemini"
 )
 
 // LanguageModel wraps the shared Gemini language model implementation for the

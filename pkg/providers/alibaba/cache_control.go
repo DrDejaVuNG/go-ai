@@ -1,6 +1,6 @@
 package alibaba
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // maxCacheBreakpoints is the maximum number of cache markers Alibaba allows per request.
 const maxCacheBreakpoints = 4

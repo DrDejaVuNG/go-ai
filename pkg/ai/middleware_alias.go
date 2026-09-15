@@ -1,8 +1,8 @@
 package ai
 
 import (
-	mw "github.com/digitallysavvy/go-ai/pkg/middleware"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	mw "github.com/DrDejaVuNG/go-ai/pkg/middleware"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // Middleware type aliases exposed from the ai package for TS-style discoverability.

@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/digitallysavvy/go-ai/pkg/mcp"
+	"github.com/DrDejaVuNG/go-ai/pkg/mcp"
 )
 
 func main() {

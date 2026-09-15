@@ -1,6 +1,6 @@
 package gemini
 
-import "github.com/digitallysavvy/go-ai/pkg/provider/types"
+import "github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 
 // GoogleSearchTool creates a Google web search grounding tool.
 // Requires Gemini 2.0 or newer.

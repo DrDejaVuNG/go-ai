@@ -3,7 +3,7 @@ package deepinfra
 import (
 	"testing"
 
-	"github.com/digitallysavvy/go-ai/pkg/providers/openai"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/openai"
 )
 
 func TestDeepInfraProviderWrappers(t *testing.T) {

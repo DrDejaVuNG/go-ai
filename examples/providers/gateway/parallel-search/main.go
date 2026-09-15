@@ -7,10 +7,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/digitallysavvy/go-ai/pkg/ai"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	"github.com/digitallysavvy/go-ai/pkg/providers/gateway"
-	"github.com/digitallysavvy/go-ai/pkg/providers/gateway/tools"
+	"github.com/DrDejaVuNG/go-ai/pkg/ai"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/gateway"
+	"github.com/DrDejaVuNG/go-ai/pkg/providers/gateway/tools"
 )
 
 func main() {

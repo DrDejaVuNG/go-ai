@@ -3,8 +3,8 @@ package responses
 import (
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
-	openaitool "github.com/digitallysavvy/go-ai/pkg/providers/openai/tool"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
+	openaitool "github.com/DrDejaVuNG/go-ai/pkg/providers/openai/tool"
 )
 
 // PrepareTools converts SDK tools to the OpenAI Responses API tool format.

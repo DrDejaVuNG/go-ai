@@ -5,7 +5,7 @@ package gladia
 import (
 	"fmt"
 
-	"github.com/digitallysavvy/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
 )
 
 // Config holds configuration for the Gladia provider

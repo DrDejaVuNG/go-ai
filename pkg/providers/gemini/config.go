@@ -1,6 +1,6 @@
 package gemini
 
-import internalhttp "github.com/digitallysavvy/go-ai/pkg/internal/http"
+import internalhttp "github.com/DrDejaVuNG/go-ai/pkg/internal/http"
 
 // Config parameterizes the shared Gemini language model implementation
 // for both the google and googlevertex providers.

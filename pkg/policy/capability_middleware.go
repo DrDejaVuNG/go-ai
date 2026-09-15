@@ -3,9 +3,9 @@ package policy
 import (
 	"context"
 
-	"github.com/digitallysavvy/go-ai/pkg/middleware"
-	"github.com/digitallysavvy/go-ai/pkg/provider"
-	"github.com/digitallysavvy/go-ai/pkg/provider/types"
+	"github.com/DrDejaVuNG/go-ai/pkg/middleware"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider"
+	"github.com/DrDejaVuNG/go-ai/pkg/provider/types"
 )
 
 // DefaultOPACapabilityInput is the default input passed to OPA capability rules.
